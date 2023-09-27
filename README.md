@@ -1,15 +1,15 @@
 # Hyperblog Andres Felipe Cubillos Ospina
 
-Un blog increíble para el curso de Git y Git Hub de Platzi![Alt text](image.png)
+Un blog increíble para el curso de Git y Git Hub de Platzi! ♥️♥️
 
 En este blog Aprenderemos sobre nuestras habilidades en:
 
-* HTML ![Alt text](image-1.png)
+* HTML 😎😎
 
-* CSS ![Alt text](image-2.png)
+* CSS 
 
-* JavaScript ![Alt text](image-3.png)
+* JavaScript ⌨️⌨️
 
-* GItHub ![Alt text](image-4.png) 
+* GItHub 💻💻 
 
-Muchas Gracias por su Atencion ![Alt text](image-5.png)
+Muchas Gracias por su Atencion ! 🐈🐈
