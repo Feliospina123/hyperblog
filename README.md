@@ -14,4 +14,9 @@ En este blog Aprenderemos sobre nuestras habilidades en:
 
 * Creado por el increible Andres 😎😎
 
+* Incluye ejemplos en windows, linus y mac 🧑‍🎓🧑‍🎓
+
+* Disponible para todas las edades 👴👴
+
+
 Muchas Gracias por su Atencion ! 🐈🐈
