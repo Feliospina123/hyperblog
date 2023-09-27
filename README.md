@@ -16,4 +16,7 @@ En este blog Aprenderemos sobre nuestras habilidades en:
 
 * Incluye ejemplos en windows, linus y mac 🧑‍🎓🧑‍🎓
 
+* Disponible para todas las edades 👴👴
+
+
 Muchas Gracias por su Atencion ! 🐈🐈
